@@ -1,0 +1,36 @@
+.main-container {
+    display: flex;
+    flex-direction: row;
+    align-content: space-evenly;
+    align-items: center
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    align-content: space-evenly;
+    align-items: center;
+}
+
+.form-container{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+}
+.image {
+    width: 25%;
+    height: 25%;
+}
+
+#ipad{
+    background-color: aqua
+}
+
+#iphone{
+    background-color: aquamarine;
+}
+
+#macbook{
+    background-color: darkgoldenrod;
+}
