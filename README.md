@@ -1,3 +1,3 @@
 # tamrinHTML
-preview of 
+preview of this project
 ![preview](./sample.png)
